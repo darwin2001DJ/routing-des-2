@@ -1,0 +1,19 @@
+img{
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+    margin: 1rem;
+}
+
+nav{
+    position: fixed;
+    top: 1rem;
+}
+
+.heading{
+    margin-left: 5rem;
+}
+
+.card{
+    margin-left: 5rem;
+}

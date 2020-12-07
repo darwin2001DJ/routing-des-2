@@ -21,10 +21,10 @@ export default class RouterJioPlans extends Component {
             <Link to="/topup">
               <img id="topup-image" src={ImgTopup} />
             </Link>
-            <Link to="/2g">
+            <Link to="/3g4g">
               <img id="jio-image" src={Img3g4g} />
             </Link>
-            <Link to="/g3g4">
+            <Link to="/2g">
               <img id="GB2-image" src={Img2g} />
             </Link>
           </nav>
